@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @iiiron14
+- 👀 I’m interested in coding and cybersecurity
+- 🌱 I’m currently learning kali linux, python, c++
+- 📫 How to reach me: edoardonori24@gmail.com
